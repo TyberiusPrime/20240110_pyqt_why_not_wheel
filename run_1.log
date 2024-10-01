@@ -1,0 +1,17 @@
+warning: Git tree '/project/builds/hammer_build_uxsim_1.5.0/build' is dirty
+trace: dill matched to 0.3.1.1
+trace: numpy matched to 2.1.0
+trace: pandas matched to 2.2.2
+trace: pillow matched to 10.4.0
+trace: pyqt5 matched to 5.15.11
+trace: python-dateutil matched to 2.9.0.post0
+trace: pytz matched to 2024.1
+trace: tzdata matched to 2024.1
+trace: pyqt5-qt5 matched to 5.15.15
+trace: six matched to 1.16.0
+these 3 derivations will be built:
+  /nix/store/bl0czlxpmani7bnbd7bfixnxy9jg71xd-uv2nix-hammer-app-0.1.0.drv
+  /nix/store/r1d3kh9vgj0psv8bpfgfgwp1y7i99zhk-pyqt5-5.15.11.drv
+  /nix/store/yfl3wwk19hpidbhcwmchd21mq1fqili6-test-venv.drv
+building '/nix/store/r1d3kh9vgj0psv8bpfgfgwp1y7i99zhk-pyqt5-5.15.11.drv'...
+building '/nix/store/bl0czlxpmani7bnbd7bfixnxy9jg71xd-uv2nix-hammer-app-0.1.0.drv'...
