@@ -4,7 +4,7 @@
     nixpkgs.url = "github:nixos/nixpkgs/master";
     uv2nix.url = "github:/adisbladis/uv2nix";
     uv2nix.inputs.nixpkgs.follows = "nixpkgs";
-    uv2nix_hammer_overrides.url = "/project/builds/hammer_build_uxsim_1.5.0/overrides";
+    uv2nix_hammer_overrides.url = "github:tyberiusprime/uv2nix_hammer_overrides";
     uv2nix_hammer_overrides.inputs.nixpkgs.follows = "nixpkgs";
     pyproject-nix.url = "github:/nix-community/pyproject.nix";
     pyproject-nix.inputs.nixpkgs.follows = "nixpkgs";

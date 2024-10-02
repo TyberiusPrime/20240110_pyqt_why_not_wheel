@@ -332,17 +332,17 @@
         "treefmt-nix": "treefmt-nix_3"
       },
       "locked": {
-        "lastModified": 1727792170,
-        "narHash": "sha256-mkHfUIuJtLOJkDxMuv6+xxVtNxe2W1P2ljxayOWCS3s=",
-        "ref": "refs/heads/uxsim-1.5.0",
-        "rev": "865993b964b5a233518ddb0aecfecf4e4d545f32",
-        "revCount": 5151,
-        "type": "git",
-        "url": "file:///project/builds/hammer_build_uxsim_1.5.0/overrides"
+        "lastModified": 1727704572,
+        "narHash": "sha256-EYQvovwzriHoMxs197UFsfCR+P/1p0cos8KP43M0UVA=",
+        "owner": "tyberiusprime",
+        "repo": "uv2nix_hammer_overrides",
+        "rev": "ce97be0cf4cf93d699177fdc3bd52bf6ba2f9b96",
+        "type": "github"
       },
       "original": {
-        "type": "git",
-        "url": "file:///project/builds/hammer_build_uxsim_1.5.0/overrides"
+        "owner": "tyberiusprime",
+        "repo": "uv2nix_hammer_overrides",
+        "type": "github"
       }
     }
   },
